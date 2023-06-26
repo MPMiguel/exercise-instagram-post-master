@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+.post{
+    margin-top: 20px;
+    width: 350px;
+    height: 500px; 
+    background-color: white;
+}
+.post-header{
+    display: inline;
+
+}
+
+
+svg{
+    font-size: 30px;
+    margin: 5px;
+}
